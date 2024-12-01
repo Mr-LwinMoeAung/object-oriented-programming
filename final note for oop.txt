@@ -1,0 +1,5 @@
+for i in user:
+    operation, item = i.strip().split()
+    list1.append(operation)
+    list2.append(item)
+#To split 'a wagyu'

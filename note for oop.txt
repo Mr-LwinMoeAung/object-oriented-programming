@@ -1,0 +1,36 @@
+** is power
+
+if we want to add comma in integer | {x:,}
+
+to spit float into integer and decimal | x//1 | x%1
+
+
+to print irregular pattern, use []
+
+split is method 
+len is a function
+
+ISBN(International Standard Book Number
+10-13 digits
+assume only 10digit
+it must be divisible by 11
+
+we can't edit i in for loop
+
+
+To get indivitual number
+for i in range(y-1):
+    ans*=10
+for j in range(y):
+    a=user//ans
+    a=user//ans%10
+    ans=ans/10
+
+# an_int = 13579
+
+# list_of_digits = []
+
+# for x in str(an_int):
+#     list_of_digits.append(int(x))
+
+# print(list_of_digits) 
